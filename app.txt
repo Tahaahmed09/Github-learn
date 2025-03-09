@@ -1,3 +1,5 @@
 Print("Taha Ahmed")
 git config --global user.name "Tahaahmed09"
 git config --gloabl user.email "taha4hope@gmail.com"
+
+print("Updading the file")
